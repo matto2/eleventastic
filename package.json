@@ -1,7 +1,7 @@
 {
-  "name": "eleventastic",
+  "name": "matt-oleary-product-designer",
   "version": "1.0.0",
-  "description": "A boilerplate for eleventy websites",
+  "description": "Matt O'Leary's product design portfolio site",
   "browserslist": [
     "defaults"
   ],
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/eleventastic"
+    "url": ""
   },
-  "author": "Max Böck",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.11.1",
