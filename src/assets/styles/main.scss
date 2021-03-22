@@ -39,7 +39,7 @@
     --min: 25ch;
     --gap: 2rem;
   
-    display: grid;
+    display: grid !important;
     grid-gap: var(--gap);
     grid-template-columns: repeat(auto-fit, minmax(var(--min), 1fr));
     margin-bottom: 2rem;
